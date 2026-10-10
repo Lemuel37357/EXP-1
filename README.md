@@ -45,12 +45,11 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
  
-<img width="1068" height="691" alt="image" src="https://github.com/user-attachments/assets/daa24d0f-cee0-4e99-8445-2df8034d3945" />
 
 
 b.  KCL:
 
- <img width="1358" height="795" alt="image" src="https://github.com/user-attachments/assets/2ccfa7b8-daaa-48a4-b117-06ba4f5301a0" />
+ 
 
 
 Calculation:
@@ -75,5 +74,7 @@ b.  KCL:
 
 
 RESULT:
+<img width="1068" height="691" alt="image" src="https://github.com/user-attachments/assets/daa24d0f-cee0-4e99-8445-2df8034d3945" />
 
+<img width="1358" height="795" alt="image" src="https://github.com/user-attachments/assets/2ccfa7b8-daaa-48a4-b117-06ba4f5301a0" />
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
